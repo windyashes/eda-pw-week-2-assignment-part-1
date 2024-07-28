@@ -115,15 +115,9 @@ switch(luckyNumber){
 };
 console.log(luckyResult);
 // 17 -- Rewrite question 12 with a `ternary` operator. You'll need to do research!
-
-
-
-
-
-
-
-
-
+adventurous = true;
+result = adventurous ? 'Adventures are great!' : 'How about we stay home?';
+console.log(result);
 
 
 // DO NOT MODIFY
